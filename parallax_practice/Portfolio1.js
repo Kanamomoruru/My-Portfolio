@@ -1,6 +1,6 @@
 
 
-$(function($) {
+$(function($) {;
 
 
   $(".bar").each(function() {
@@ -29,3 +29,6 @@ $(function($) {
   });
 
 });
+
+
+
